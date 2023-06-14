@@ -1,4 +1,4 @@
-<h1 align="center">PRIVACY POLICE</h1>
+<h1 align="center">PRIVACY POLICY</h1>
 
 <h3 align="center">
   This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the Universe bot. By using the Universe bot, you agree to the collection and use of your personal information as described in this Privacy Policy.
