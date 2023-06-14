@@ -6,7 +6,7 @@
 
 ------
 ### 1. Information We Collect
-> - We may collect certain personal information that you voluntarily provide when using the Universe bot, such as your Discord username and user ID.
+> - We may collect certain personal information that you voluntarily provide when using the Universe bot, such as your Discord username, guildname, guild ID and user ID.
 > - We may also collect usage data and analytics information to improve the functionality and performance of the Universe bot.
 
 ### 2. Use of Personal Information
