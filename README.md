@@ -1,7 +1,7 @@
-<h1 align="center">PRIVACY POLICY</h1>
+<h1 align="center">PRIVACY POLICE</h1>
 
 <h3 align="center">
-  This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use the Universe bot. By using the Universe bot, you agree to the collection and use of your personal information as described in this Privacy Policy.
+  This Privacy Police explains how we collect, use, disclose, and protect your personal information when you use the Universe bot. By using the Universe bot, you agree to the collection and use of your personal information as described in this Privacy Police.
 </h3>
 
 ------
@@ -40,7 +40,7 @@
 > - We will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 > - If you wish to have your personal information deleted or removed from our systems, please contact us using the provided contact information.
 
-### 10. Changes to the Privacy Policy
+### 10. Changes to the Privacy Police
 > - We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the revised Privacy Policy.
 > - We encourage you to review this Privacy Policy periodically to stay informed about how we collect, use, disclose, and protect your personal information.
 
